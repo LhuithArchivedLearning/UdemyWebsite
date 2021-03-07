@@ -13,3 +13,6 @@ this file is just a readme file.
 The purpose of this file is to provde examples
 on how to yuse GHit and Github together.
 
+## Getting Started
+
+To get started with this project, just `clone` this repository.
