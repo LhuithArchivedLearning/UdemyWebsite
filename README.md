@@ -1,4 +1,4 @@
-# My Website
+# Udemy Github Website Project
 
 this is a really awesome website
 
